@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "George Shillcock"
 title_separator          : "-"
 name                     : "George Shillcock"
-logo                     : "/assets/images/88x88.png"
+logo                     : "images/spirals2.png"
 description              : "Academic website of George Shillcock"
 url                      : https://G-Shillcock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "George Shillcock"
-  avatar           : "000009300018.jpg"
+  avatar           : "avatar.jpg"
   bio              : "Graduate Student of Mathematical Biology"
   location         : "Oxford, UK"
   employer         :

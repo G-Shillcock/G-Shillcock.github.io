@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include the epidemiology of infectious disease and the interactions that form between species, in particular, the dynamics of pathogens and their hosts. I do that by formulating mathematical models which incorporate the ecology of a population and consider how the individual choices of an organism, such as the virulence of a disease-causing microbe, affect the stability of the relationship it has with its symbiont. This framework allows many generations of interacting hosts and parasites to play out in real time. So that heritable traits that offer advantage are selected for, and coevolution becomes perceptible. A significant component of the analysis is computed using numeric programming languages.
-
+I am a mathematician by trade, but interested in biological questions. 
 <figure>
 	<a href="/images/Reaction-Diffusion.gif">
-	<img align="right" src="/images/spirals2.png" alt = "Gray-Scott spirals" width="50"/>
+	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals" width="50"/>
 	</a>
 	<figcaption>Spiralling pattern of the Gray-Scott equations - used to model the reaction and diffusion of two chemicals.</figcaption>
 </figure>

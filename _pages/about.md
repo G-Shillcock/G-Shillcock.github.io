@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "In a nutshell"
-excerpt: "In a nutshell"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I am a mathematician by trade, but interested in biological questions. 
 <figure>
-	<a align="center" href="/images/Reaction-Diffusion.gif">
+	<a href="/images/Reaction-Diffusion.gif">
 	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals" width="35"/>
 	</a>
 	<figcaption>Spiralling pattern of the Gray-Scott equations - used to model the reaction and diffusion of two chemicals.</figcaption>

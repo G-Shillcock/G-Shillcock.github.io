@@ -9,12 +9,4 @@ redirect_from:
 
 {% include base_path %}<html>
 
-<head>
-  <title>Title of the document</title>
-</head>
-<body>
-  <h1>YO YO</h1>
-  <iframe src="images/CV(Sep22).pdf" width="100%" height="500px">
-  </iframe>
-</body>
-</html>
+<a href="https://github.com/G-Shillcock/G-Shillcock.github.io/blob/27d67157cadc3df737bf49da267690309da35677/images/CV(Sep22).pdf" download>Download the pdf</a>

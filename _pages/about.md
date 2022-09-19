@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a mathematician by trade, but interested in biological questions. 
-<figure>
+<figure style="width:300px;">
 	<a href="/images/Reaction-Diffusion.gif">
 	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals" style="width:300px"/>
 	</a>

@@ -20,5 +20,4 @@ I am a mathematician by trade, but interested in biological questions.
 <a href="https://soundcloud.com/georgie_0" title="Georgie" target="_blank" style="color: #cccccc; text-decoration: none;">Georgie</a> · <a href="https://soundcloud.com/georgie_0/headrush" title="headrush" target="_blank" style="color: #cccccc; text-decoration: none;">headrush</a></div>
 </div>
 
-I feel the sense of 
-Applying a mathematical perspective to biology is important to me because of the responsibility I feel, and I believe we all have as stewards of the natural world, to better understand and protect biodiversity, to make sustainable choices for the climate, and to foster a resilient ecosystem. I hope that my research, and the understanding it gleams, can influence our perspectives, future scholars work and our policies on conservation.
+I feel a responsibility to better understand and protect the natural world, to make sustainable choices for the climate, and to foster a resilient ecosystem. I hope that my research can leave some small influence on our perspective, our policies on conservation, and the work of future scholars.

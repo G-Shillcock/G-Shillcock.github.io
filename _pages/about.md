@@ -10,10 +10,10 @@ redirect_from:
 
 I am a mathematician by trade, but interested in biological questions. 
 <figure style="width:300px;">
-	<a href="/images/Reaction-Diffusion.gif">
+	<p style="text-align:center">
 	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals" style="width:300px"/>
-	</a>
 	<figcaption>Spiralling pattern which emerges from the Gray-Scott equations.</figcaption>
+	</p>
 </figure>
 
 Applying a mathematical perspective to biology is important to me because of the responsibility I feel, and I believe we all have, as stewards of the natural world, to better understand and protect biodiversity, to make sustainable choices for the climate, and to foster a resilient ecosystem. I hope that my research, and the understanding it gleams, can influence our perspectives, future scholars work and our policies on conservation.

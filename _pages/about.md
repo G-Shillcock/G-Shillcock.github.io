@@ -12,7 +12,7 @@ I am a mathematician by trade, but interested in biological questions.
 <figure style="width:300px;">
 	<p style="text-align:center">
 	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals" style="width:300px"/>
-	<figcaption>Spiralling pattern which emerges from the Gray-Scott equations.</figcaption>
+	<figcaption>Spiralling pattern which emerges from the Gray-Scott equations. Implemented for a class project using finite difference.</figcaption>
 	</p>
 </figure>
 

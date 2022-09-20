@@ -1,14 +1,14 @@
 ---
 title: "A Theoretical Perspective on Parasite-Host Coevolution with Alternative Modes of Infection"
 collection: publications
-permalink: "files/Thesis.pdf"
+permalink: /publication/2022-08-03-Western-Thesis
 excerpt: 'We investigate how natural selection shapes the coevolution of parasitism. We discuss the antagonism fuelled by parasites’ necessity to transmit to novel hosts, and host’s desire to minimise virulence. In support, we build a mathematical model which considers the epidemiology and life-history trade-offs faced by an obligate microparasite and its host. Our model allows parasites to be transmitted to new hosts via direct contact (horizontally) or from parent to offspring during birth (vertically). We test the hypothesis that vertical transmission causes virulence to diminish in the long run, and contrary to widely accepted views, find that vertical transmission need not result in benign coevolutionary outcomes in general. However, vertical transmission does promotes benign parasitism whenever: it is cheap for the host to retaliate; horizontal transmission saturates quickly; or the intrinsic growth rate of the host population is low.'
 date: 2022-08-03
 venue: 'Western's Electronic Thesis and Dissertation Repository'
-paperurl: '[Available here.](https://ir.lib.uwo.ca/etd/8671/)'
-citation: ' Shillcock, George N., "A Theoretical Perspective on Parasite-Host Coevolution with Alternative Modes of Infection" (2022). Electronic Thesis and Dissertation Repository. 8671'
+paperurl: 'https://ir.lib.uwo.ca/etd/8671'
+citation: 'Shillcock, George N., "A Theoretical Perspective on Parasite-Host Coevolution with Alternative Modes of Infection" (2022). Electronic Thesis and Dissertation Repository. 8671'
 ---
 
 [Download paper here](https://github.com/G-Shillcock/G-Shillcock.github.io/blob/eba3ebf99d9df319c039f664c26ff6c5e1b93ade/files/Thesis.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Shillcock, George N., "A Theoretical Perspective on Parasite-Host Coevolution with Alternative Modes of Infection" (2022). Electronic Thesis and Dissertation Repository. 8671

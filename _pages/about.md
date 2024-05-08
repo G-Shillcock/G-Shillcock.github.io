@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 I am a mathematician by trade, but interested in biological questions.
-<figure style="width:300px;">
+<figure style="width:250px;">
 	<p style="text-align:center">
-	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals"/>
+	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals" width="250px"/>
 	<figcaption>Spiralling pattern which emerges from the Gray-Scott equations. Implemented for a class project using finite difference.</figcaption>
 	</p>
 
- <figure style="width:150px;">
+ <figure style="width:250px;">
 	<p style="text-align:center">
-	<img src="/images/sheffer_stroke.png" alt = "Sheffer Stroke" width="150">
+	<img src="/images/sheffer_stroke.png" alt = "Sheffer Stroke" width="250">
 	<figcaption> Caption </figcaption>
 	</p>
 

@@ -14,6 +14,14 @@ I am a mathematician by trade, but interested in biological questions.
 	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals"/>
 	<figcaption>Spiralling pattern which emerges from the Gray-Scott equations. Implemented for a class project using finite difference.</figcaption>
 	</p>
+
+ <figure style="width:300px;">
+	<p style="text-align:center">
+	<img src="/images/Sheffer_Stroke" alt = "Sheffer Stroke"/>
+	<figcaption> Caption </figcaption>
+	</p>
+
+ 
 <iframe align="right" width = "300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910474474&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </figure>
 

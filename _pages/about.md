@@ -15,9 +15,9 @@ I am a mathematician by trade, but interested in biological questions.
 	<figcaption>Spiralling pattern which emerges from the Gray-Scott equations. Implemented for a class project using finite difference.</figcaption>
 	</p>
 
- <figure style="width:300px;">
+ <figure style="width:150px;">
 	<p style="text-align:center">
-	<img src="/images/sheffer_stroke.png" alt = "Sheffer Stroke"/>
+	<img src="/images/sheffer_stroke.png" alt = "Sheffer Stroke" width="150">
 	<figcaption> Caption </figcaption>
 	</p>
 

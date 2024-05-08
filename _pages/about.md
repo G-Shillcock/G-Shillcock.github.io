@@ -17,7 +17,7 @@ I am a mathematician by trade, but interested in biological questions.
 
  <figure style="width:300px;">
 	<p style="text-align:center">
-	<img src="/images/Sheffer_Stroke" alt = "Sheffer Stroke"/>
+	<img src="/images/Sheffer_Stroke.pdf" alt = "Sheffer Stroke"/>
 	<figcaption> Caption </figcaption>
 	</p>
 

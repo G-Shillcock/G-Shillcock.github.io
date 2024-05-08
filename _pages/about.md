@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am a mathematician by trade, but interested in biological questions.
+
 <figure style="width:250px;">
 	<p style="text-align:center">
 	<img src="/images/Reaction-Diffusion.gif" alt = "Gray-Scott spirals" width="250px"/>
@@ -18,9 +19,8 @@ I am a mathematician by trade, but interested in biological questions.
  <figure style="width:250px;">
 	<p style="text-align:center">
 	<img src="/images/sheffer_stroke.png" alt = "Sheffer Stroke" width="250">
-	<figcaption> Caption </figcaption>
+	<figcaption> The Functional Completeness of the NAND logic gate a.k.a the Sheffer Stroke. </figcaption>
 	</p>
-
  
 <iframe align="right" width = "300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910474474&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </figure>

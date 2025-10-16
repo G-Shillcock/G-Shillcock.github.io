@@ -22,7 +22,7 @@ I am a mathematician by trade, but interested in biological questions.
 	<figcaption> The Functional Completeness of the NAND logic gate a.k.a the Sheffer Stroke. </figcaption>
 	</p>
  
-<iframe align="right" width = "300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910474474&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</figure>
+<!-- <iframe align="right" width = "300" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910474474&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</figure> -->
 
 I feel a responsibility to better understand and protect the natural world, to make sustainable choices for the climate, and to foster a resilient ecosystem. I hope that my research can leave some small influence on our perspective, our policies on conservation, and the work of future scholars.
